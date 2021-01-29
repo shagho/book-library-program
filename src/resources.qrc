@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>Images resource/648903-star-ratings-512.png</file>
+        <file>Images resource/key-password-pin-code-blue-round-512.png</file>
+        <file>Images resource/icon-login-0.png</file>
+        <file>Images resource/7-70576_clip-art-library-library-book-clipart-transparent-transparent.png.jpeg</file>
+        <file>Images resource/bookLogo.jpg</file>
+    </qresource>
+</RCC>
